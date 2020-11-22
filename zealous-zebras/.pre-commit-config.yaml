@@ -1,5 +1,0 @@
--   repo: https://gitlab.com/pycqa/flake8
-    rev: ''
-    hooks:
-    -   id: flake8 
-        args: ['--max-line-length=119']

@@ -1,3 +1,0 @@
-DJANGO_SETTINGS_MODULE="config.settings.production"
-SECRET_KEY="asecretkey"
-USE_DOCKER="yes"

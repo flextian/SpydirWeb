@@ -1,9 +1,0 @@
-{
-    "name": "thehtvms",
-    "version": "1.0.0",
-    "dependencies": {
-        "xterm": "^4.8.1"
-    },
-    "author": "",
-    "license": "MIT"
-}
